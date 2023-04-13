@@ -1,2 +1,2 @@
-#html curse and project 
+#html course and project 
 # HTML
